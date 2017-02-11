@@ -1,0 +1,31 @@
+header {
+  background-color: blue;
+  text-align: center;
+  font-family: Arial, sans-serif ;
+  color: white ;
+}
+
+div {
+  height : 100px;
+  width: 100px;
+  margin: auto;
+  border-color: black;
+  border-radius: 5px;
+}
+
+button: {
+  height: 15px;
+  width: 60px;
+  margin: auto;
+}
+
+#dicepic img {
+  height: 100px;
+  width: 100px;
+  border-color: black;
+  border-radius: 5px;
+}
+
+span {
+  font-size: 20px;
+}
